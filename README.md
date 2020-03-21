@@ -36,9 +36,6 @@
 
     They offer all features that each cryto has and combine it into one. Below is a comparison chart of the top crytocurrencys in the market today and you will be to see how much more Apollo has to offer. 
 
-![Apollo Comparison Graph](Saved Pictures/Apollo Chart)
-![Another Apollo Comparison Graph](Saved Pictures/Apollo Comparison)
-
 * **Which technologies are they currrently using, and how are they implementing them?**
 
     A couple of the technologies that they are using include:
@@ -80,7 +77,7 @@
 
 * **What has been the business impact of this company so far?**
 
-    With this being a new company they havent had much impact on the consumer as of right now. They are still working on getting implemented by the governments to be used. But as of right now you can attain a Apollo wallet and buy and sell the coins. 
+    With this being a new company they haven't had much impact on the consumer as of right now. They are still working on getting implemented by the governments to be used. But as of right now you can attain a Apollo wallet and buy and sell the coins. 
 
 * **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
 
