@@ -86,7 +86,8 @@
 * **How is your company performing relative to competitors in the same domain?**
 
     Comparing other crytocurrencies to Apollo, I think Apollo is off to a good start being new and what they are trying to accomplish. They are trying to do something that nobody else has done and is almost doing something that is "to good to be true". 
-![Apollo chart](Pictures\Apollo Chart.jpg)
+
+![Apollo chart](Pictures/Apollo Chart.jpg)
 
 ---
 
